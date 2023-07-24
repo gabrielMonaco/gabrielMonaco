@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriel Monaco da Silva and i'm a geologist 🌎🌍🌏 graduated from UFRGS in 2021 👨🏼‍🎓👨🏼‍🎓👨🏼‍🎓
+My name is Gabriel Monaco da Silva and i'm a brazilian geologist 🌎🌍🌏 graduated in Federal University of **Rio Grande do Sul** (UFRGS), in 2021 👨🏼‍🎓👨🏼‍🎓👨🏼‍🎓
 
 - 🔭 Today I'm doing a master's degree in geology at UFRGS, working with computer vision 🔬💻 for the task of segmenting the constituents of fine sedimentary rocks, in the study of their sealing properties in hydrocarbon deposits
   
@@ -10,10 +10,15 @@ My name is Gabriel Monaco da Silva and i'm a geologist 🌎🌍🌏 graduated fr
 
 - 💬 Ask me about geology, digital petrology, image processing, computer vision and artificial intelligence
   
-- 📫 How to reach me:
-
+- 📫 Reach me on...
+  -  This email: monaco.geo@gmail.com or click on the button below:
 <div> 
    <a href = "mailto:monaco.geo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+
+-
+  - And see my LinkedIn profile in the button below:
+<div>
   <a href="https://www.linkedin.com/in/gabrielmonacorsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
