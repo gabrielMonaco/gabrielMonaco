@@ -1,27 +1,25 @@
 ### Hi there 👋
 
-My name is Gabriel Monaco da Silva and i'm a brazilian geologist 🌎🌍🌏 graduated in Federal University of **Rio Grande do Sul** (UFRGS), in 2021 👨🏼‍🎓👨🏼‍🎓👨🏼‍🎓
+My name is Gabriel Monaco, and I'm a Brazilian geologist 🌎🌍🌏. I earned my bachelor's degree in 2021 and my master's degree in 2024 from the **Federal University of Rio Grande do Sul (UFRGS)** 👨🏼‍🎓👨🏼‍🎓👨🏼‍🎓.
 
-- 🔭 Today I'm doing a master's degree in geology at UFRGS, working with computer vision 🔬💻 for the task of segmenting the constituents of fine sedimentary rocks, in the study of their sealing properties in hydrocarbon deposits
+- 🔭 I am currently working as a researcher at the InTRA Laboratory of the Polytechnic School of the University of São Paulo (POLI-USP), affiliated with the Departments of Mining and Petroleum Engineering, on data science projects related to the energy industry.
   
-- 🌱 I am currently studying architectures for semantic segmentation that use different types of artificial neural networks, like deep, convolutional and transformer. And learning how to use Pytorch 🔥🔥🔥 and Transformer libraries from HuggingFace 🤗🤗🤗
+- 🌱 During my master's, I studied the use of computer vision and neural network techniques for applications in digital petrography. I developed super-resolution models to reduce the trade-off between details and petrographic context in microscopic images of sealing mudstones from hydrocarbon deposits.
   
-- 👯 I’m looking to collaborate on any project involving geology and artificial intelligence
+- 👯 I’m looking to collaborate on projects involving geology and artificial intelligence.
 
-- 💬 Ask me about geology, digital petrology, image processing, computer vision and artificial intelligence
+- 💬 Ask me about geology, digital petrology, image processing, computer vision, neural networks and data science.
   
-- 📫 Reach me on...
-  -  This email: monaco.geo@gmail.com or click on the button below:
+- 📫 Reach me at...
+  - This email: monaco.geo@gmail.com or click the button below:
 <div> 
    <a href = "mailto:monaco.geo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 -
-  - And see my LinkedIn profile in the button below:
+  - Or visit my LinkedIn profile using the button below:
 <div>
   <a href="https://www.linkedin.com/in/gabrielmonacorsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+</div>
  
 - 😄 Pronouns: he/him
-  
-- ⚡ Fun fact: it took me a year to update my professional profiles. Only after having a knee arthroscopy and staying at home in rehab
